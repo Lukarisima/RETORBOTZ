@@ -1,0 +1,17 @@
+{
+  "ownerNumber":  ["6285848607270@s.whatsapp.net","6285848607270@s.whatsapp.net"],
+  "botName": "Reto - Bot",
+  "packname" : "Loli",
+  "author" : "RetoR",
+  "Prefix" : "Multi",
+  "sessionName": "botindo",
+  "Mode": "Public",
+  "pathImg": "./media/bobi.jpg",
+  "fakeImg": "./media/fake.jpg",
+  "gamewaktu": 60,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100,
+	"user": 15
+  }
+}
