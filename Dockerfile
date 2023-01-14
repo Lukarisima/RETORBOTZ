@@ -14,4 +14,4 @@ RUN npm install && npm install qrcode-terminal
 
 COPY . .
 
-CMD ["node", "main.js"]
+CMD ["node", "jadibot.js"]
